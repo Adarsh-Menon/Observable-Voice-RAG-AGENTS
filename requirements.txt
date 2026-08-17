@@ -1,0 +1,6 @@
+livekit
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+llama_index
+qdrant_client
